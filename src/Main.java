@@ -5,5 +5,8 @@ public class Main {
         //instantiating an object
         Student student = new Student();
 
+        student.getStudentData(1,"Mark");
+
+
     }
 }
