@@ -7,6 +7,9 @@ public class Main {
 
         student.getStudentData(1,"Mark");
 
+        student.getStudentMarks(20,30,40);
+
+
 
     }
 }
