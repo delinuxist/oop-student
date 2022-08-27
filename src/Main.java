@@ -9,6 +9,7 @@ public class Main {
 
         student.getStudentMarks(20,30,40);
 
+        student.totalMarks();
 
 
     }
